@@ -21,13 +21,14 @@ The Airbnb Analysis project analyzes Airbnb listings data to understand various 
 - **Plotly**: For creating interactive charts and maps.
 - **Pandas**: For data manipulation and analysis.
 - **Python Scripting**: Fetch the data from PhonePe Pulse repository, manipulate and pre-process the data.
+- **Mongo DB**: For storage and retrival
 
 ## Installation
 
     pip install pandas
     pip install streamlit
     pip install plotly_express==0.4
-    pip install mysqlclient
+    pip install pymongo
 
 
 ## Contact
